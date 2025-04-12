@@ -11,7 +11,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](https://avatars.githubusercontent.com/u/172878250?v=4)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/tb-miao/count.svg)
