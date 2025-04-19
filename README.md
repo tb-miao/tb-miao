@@ -1,8 +1,8 @@
 ## 👋 欢迎！| Welcome!
 我的网站 | My Website: [https://tb-miao.github.io](https://tb-miao.github.io)（zh-cn）
 
-## 头像 | avatars
-![头像](https://avatars.githubusercontent.com/u/172878250?v=4)
+## 📬 联系方式 | Contact
+知乎：[links](https://www.zhihu.com/people/gc-74-52)
 
 ## 📊 数据 | Stats
 <div id="title" align=center>
