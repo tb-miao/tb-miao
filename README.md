@@ -1,9 +1,23 @@
+## 👋 欢迎！| Welcome!
+我的网站 | My Website: [https://tb-miao.github.io](https://tb-miao.github.io)（zh-cn）
+
+## 头像 | avatars
+![头像](https://avatars.githubusercontent.com/u/172878250?v=4)
+
+## 📊 数据 | Stats
 <div id="title" align=center>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
-[![10](https://img.shields.io/badge/video-BiliBili-red)](https://www.bilibili.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao">
+</picture>
+<br />
 
 [![10](https://img.shields.io/badge/唯一认证-Github主页链接地址-blue)](https://github.com/tb-miao)
 
@@ -15,7 +29,6 @@
 
 </div>
 
-![头像](https://avatars.githubusercontent.com/u/172878250?v=4)
-
+## 🔍 访问人数 | Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/tb-miao/count.svg)
