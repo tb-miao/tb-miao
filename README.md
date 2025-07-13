@@ -1,8 +1,8 @@
 ## 👋 欢迎！| Welcome!
-**我的网站 | My Website: [https://tb-miao.github.io](https://tb-miao.github.io)（zh-cn）**
+**我的网站 | My Website: [https://nao.tbmiao.dpdns.org](https://nao.tbmiao.dpdns.org)（zh-cn）**
 
 ## 📬 联系方式 | Contact
-**知乎：[links](https://www.zhihu.com/people/gc-74-52)**
+**请查看头像下方。**
 
 ## 📊 数据 | Stats
 <div id="title" align=center>
