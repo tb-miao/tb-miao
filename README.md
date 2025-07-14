@@ -31,7 +31,3 @@
 ![](https://img.shields.io/badge/喜欢-折腾-blue) 
 
 </div>
-
-## 🔍 访问人数 | Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/tb-miao/count.svg)
