@@ -1,11 +1,11 @@
+## 🎞头像 | img
+<img src="https://avatars.githubusercontent.com/u/172878250?v=4">
+
 ## 👋 欢迎！| Welcome!
 **我的网站 | My Website: [https://nao.tbmiao.dpdns.org](https://nao.tbmiao.dpdns.org)（zh-cn）**
 
 ## 📬 联系方式 | Contact
 **请查看头像下方。**
-
-## 🎞头像 | img
-<img src="https://avatars.githubusercontent.com/u/172878250?v=4">
 
 ## 📊 数据 | Stats
 <div id="title" align=center>
