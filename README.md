@@ -1,5 +1,5 @@
 ## 👋 欢迎！| Welcome!
-**我的网站 | My Website: [https://nao.tbmiao.dpdns.org](https://nao.tbmiao.dpdns.org)（zh-cn）**
+**我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
 ## 🎞头像 | img
 <img src="https://avatars.githubusercontent.com/u/172878250?v=4">
