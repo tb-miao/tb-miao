@@ -3,9 +3,6 @@
 
 **我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
-## 🎞头像 | img
-<img src="https://avatars.githubusercontent.com/u/172878250?v=4">
-
 ## 📬 联系方式 | Contact
 **请查看头像下方。**
 
