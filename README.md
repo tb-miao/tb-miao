@@ -1,10 +1,10 @@
 ## 👋 欢迎！| Welcome!
-<img src="/image/TBNYA.png">
+<img src="./image/AUNYA-LOGO-YY.png">
 
 **我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
 ## 📬 联系方式 | Contact
-**请查看头像下方。**
+**请查看左侧头像下方。**
 
 ## 📊 数据 | Stats
 <div id="title" align=center>
