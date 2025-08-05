@@ -28,5 +28,7 @@
 ![](https://img.shields.io/badge/爱好-二次元-red)
 ![](https://img.shields.io/badge/一只-猫猫-blue) 
 ![](https://img.shields.io/badge/喜欢-折腾-blue) 
+![](https://img.shields.io/badge/NAME.1-TBNYA-blue) 
+![](https://img.shields.io/badge/NAME.2-AUNYA-blue) 
 
 </div>
