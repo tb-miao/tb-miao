@@ -1,5 +1,4 @@
 ## 👋 欢迎！| Welcome!
-<img src="./image/AUNYA-LOGO-YY.png">
 
 **我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
