@@ -3,19 +3,10 @@
 **我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
 ## 📊 数据 | Stats
-<div id="title" align=center>
+![tb-miao's Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tb-miao&theme=vue&utcOffset=8)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=tb-miao&show_icons=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tb-miao">
-</picture>
-<br />
+![tb-miao's Profile details card
+](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tb-miao&theme=tokyonight)
 
 [![10](https://img.shields.io/badge/唯一认证-Github主页链接地址-blue)](https://github.com/tb-miao)
 
