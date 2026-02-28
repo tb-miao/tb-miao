@@ -2,9 +2,15 @@
 
 你好！我是 AUNya ，一个热爱二次元文化的小萌新~ 喜欢粉色、动漫、游戏和一切可爱的东西。
 
+Hello! I'm AUNya, a little newbie who loves the culture of the second dimension. I enjoy pink, anime, games and everything cute.
+
 - 🌟 兴趣爱好：看番、画画、编程、游戏
 - 💖 最爱颜色：粉色系
 - 🎵 喜欢音乐：ACG音乐、J-POP
+- 
+- 🌟 hobbies: watching anime, drawing, programming, games
+- 💖 favorite color: pink series
+- 🎵 like music: ACG music, J-POP
 
 > **我的网站 | My Website: [https://tbmiao.dpdns.org](https://tbmiao.dpdns.org)（zh-cn）**
 
