@@ -21,5 +21,7 @@ Hello! I'm AUNya, a little newbie who loves the culture of the second dimension.
 ![tb-miao's Profile details card
 ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tb-miao&theme=tokyonight)
 
+[![tb-miao's GitHub stats](https://grs.tbmiao.dpdns.org/api?username=tb-miao)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📈 网站日志 | Website Logs
 - [https://tbmiao.dpdns.org/posts/siteindex/](https://tbmiao.dpdns.org/posts/siteindex/)
