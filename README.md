@@ -16,7 +16,6 @@ Hello! I'm AUNya, a little newbie who loves the culture of the second dimension.
 
 
 ## 📊 数据 | Stats
-![tb-miao's Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tb-miao&theme=vue&utcOffset=8)
 
 ![tb-miao's GitHub stats](https://grs.tbmiao.dpdns.org/api?username=tb-miao) ![top lang](https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&stats_format=bytes)
 
@@ -24,5 +23,12 @@ Hello! I'm AUNya, a little newbie who loves the culture of the second dimension.
 ](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tb-miao&theme=tokyonight)
 
 ![act](https://github-readme-activity-graph.baiwumm.com/graph?username=tb-miao&theme=github-light&custom_title=Activity&radius=30&height=250)
+
+![tb-miao's Productive time card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tb-miao&theme=vue&utcOffset=8)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📈 网站日志 | Website Logs
 - [https://tbmiao.dpdns.org/posts/siteindex/](https://tbmiao.dpdns.org/posts/siteindex/)
