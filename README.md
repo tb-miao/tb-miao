@@ -73,9 +73,11 @@
   <img src="./assets/images/sakura.webp" width="30" alt="sakura">
 </div>
 
+<div align="center">
+
 ## 📊 数据 | Stats
 
-<div align="center">
+
 
 <!-- GitHub 统计卡片 -->
 <div style="margin: 15px 0;">
@@ -83,21 +85,9 @@
   <img src="https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&stats_format=bytes&layout=compact&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&text_color=db7093&border_color=ffc0cb" alt="top lang" />
 </div>
 
-<!-- 个人资料详情卡片 -->
-<div style="margin: 15px 0;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tb-miao&theme=pink" alt="tb-miao's Profile details card" />
-</div>
-
 <!-- 活动图表 -->
 <div style="margin: 15px 0; background: linear-gradient(135deg, #fff0f5, #ffe4e1); border-radius: 15px; padding: 10px; border: 2px solid #ffc0cb;">
   <img src="https://github-readme-activity-graph.baiwumm.com/graph?username=tb-miao&theme=pink&custom_title=✨%20我的%20GitHub%20活动%20✨&radius=30&height=250&bg_color=fff0f5&color=ff69b4&line=ff1493&point=da70d6&area=true" alt="activity graph" />
-</div>
-
-<!-- 生产力时间卡片 -->
-<div style="margin: 15px 0;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tb-miao&theme=pink&utcOffset=8" alt="tb-miao's Productive time card" />
-</div>
-
 </div>
 
 <!-- 装饰分隔线 -->
