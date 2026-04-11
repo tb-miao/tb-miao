@@ -25,7 +25,7 @@
             🎀 Nachceko です~ 🎀
           </h3>
           <p style="color: #db7093; line-height: 2; margin: 0; font-size: 15px;">
-            一个热爱<span style="background: linear-gradient(120deg, #ffb6c1 0%, #ff69b4 50%, #da70d6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">二次元文化</span>的小萌新~<br>
+            一个超爱<span style="background: linear-gradient(120deg, #ffb6c1 0%, #ff69b4 50%, #da70d6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">二次元文化</span>的小萌新~<br>
             喜欢 <span style="color: #ff1493; font-weight: bold;">💗 粉色</span>、<span style="color: #ff69b4; font-weight: bold;">🌸 动漫</span>、<span style="color: #db7093; font-weight: bold;">🎮 游戏</span> 和一切<span style="color: #ff69b4; font-weight: bold; text-decoration: wavy underline;">可爱</span>的东西 ✨
           </p>
           <div style="margin-top: 15px; font-size: 15px; color: #ff69b4; background: linear-gradient(90deg, transparent, rgba(255,182,193,0.3), transparent); padding: 8px; border-radius: 10px;">
@@ -45,15 +45,15 @@
   <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <div style="background: linear-gradient(135deg, #fff0f5, #ffe4e1); padding: 12px 20px; border-radius: 15px; border: 2px solid #ffc0cb; box-shadow: 0 4px 12px rgba(255,182,193,0.3);">
       <span style="color: #ff69b4; font-weight: bold;">🌟 兴趣爱好</span><br>
-      <span style="color: #db7093; font-size: 13px;">看番 · 画画 · 编程 · 游戏</span>
+      <span style="color: #db7093; font-size: 13px;">看番、画画、编程、打游戏～</span>
     </div>
     <div style="background: linear-gradient(135deg, #ffe4e1, #f8e1ff); padding: 12px 20px; border-radius: 15px; border: 2px solid #dda0dd; box-shadow: 0 4px 12px rgba(221,160,221,0.3);">
       <span style="color: #da70d6; font-weight: bold;">💖 最爱颜色</span><br>
-      <span style="color: #db7093; font-size: 13px;">粉色系 · 薰衣草紫</span>
+      <span style="color: #db7093; font-size: 13px;">软fufu的粉色系～</span>
     </div>
     <div style="background: linear-gradient(135deg, #f0f8ff, #ffe4e1); padding: 12px 20px; border-radius: 15px; border: 2px solid #b0c4de; box-shadow: 0 4px 12px rgba(176,196,222,0.3);">
       <span style="color: #6495ed; font-weight: bold;">🎵 喜欢音乐</span><br>
-      <span style="color: #db7093; font-size: 13px;">ACG音乐 · J-POP · VOCALOID</span>
+      <span style="color: #db7093; font-size: 13px;">ACG音乐、J-POP，超治愈的那种！</span>
     </div>
   </div>
   
