@@ -57,6 +57,16 @@
     </div>
   </div>
   
+  <!-- 技术栈 -->
+  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  </div>
+  
   <!-- 网站链接 -->
   <div style="margin-top: 20px; background: linear-gradient(90deg, #ffeef8, #fff0f5, #ffeef8); padding: 15px 30px; border-radius: 25px; border: 2px dashed #ff69b4; display: inline-block;">
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
@@ -81,8 +91,9 @@
 
 <!-- GitHub 统计卡片 -->
 <div style="margin: 15px 0;">
+   <img src="https://streak-stats.demolab.com/?user=tb-miao&show_icons=true&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&icon_color=ff1493&text_color=db7093&border_color=ffc0cb" alt="streak stats" />
   <img src="https://grs.tbmiao.dpdns.org/api?username=tb-miao&show_icons=true&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&icon_color=ff1493&text_color=db7093&border_color=ffc0cb" alt="tb-miao's GitHub stats" />
-  <img src="https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&stats_format=bytes&layout=compact&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&text_color=db7093&border_color=ffc0cb" alt="top lang" />
+  <img src="https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&layout=compact&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&text_color=db7093&border_color=ffc0cb" alt="top lang" />
 </div>
 
 <!-- 活动图表 -->
