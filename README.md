@@ -94,7 +94,7 @@
 <div style="margin: 15px 0;">
    <img src="https://streak-stats.demolab.com/?user=tb-miao&show_icons=true&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&icon_color=ff1493&text_color=db7093&border_color=ffc0cb" alt="streak stats" />
   <img src="https://grs.tbmiao.dpdns.org/api?username=tb-miao&show_icons=true&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&icon_color=ff1493&text_color=db7093&border_color=ffc0cb" alt="tb-miao's GitHub stats" />
-  <img src="https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&layout=compact&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&text_color=db7093&border_color=ffc0cb" alt="top lang" />
+  <img src="https://grs.tbmiao.dpdns.org/api/top-langs/?username=tb-miao&layout=pie&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&text_color=db7093&border_color=ffc0cb" alt="top lang" />
 </div>
 
 <!-- 活动图表 -->
