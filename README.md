@@ -59,13 +59,13 @@
   
   <!-- 技术栈 -->
   <div style="margin-top: 20px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <span style="color: #ff69b4; font-weight: bold;">技术栈</span><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
+  <div style="background: linear-gradient(135deg, #fff0f5, #ffe4e1); padding: 12px 20px; border-radius: 15px; border: 2px solid #ffc0cb; box-shadow: 0 4px 12px rgba(255,182,193,0.3);">
+  <span style="color: #ff69b4; font-weight: bold;">📄 技术栈</span><br>
+    <a href="https://tbmiao.dpdns.org/about/#技术栈" style="color: #ff1493; text-decoration: none; font-size: 16px; display: inline-block; padding: 10px 20px; background: rgba(255, 255, 255, 0.7); border-radius: 10px; border: 2px solid #ffc0cb; transition: all 0.3s;">
+      🔗 https://tbmiao.dpdns.org/about/#技术栈
+    </a>
+  </span>
+  </div>
   </div>
   
   <!-- 网站链接 -->
@@ -114,8 +114,8 @@
     <div style="font-size: 18px; color: #ff69b4; margin-bottom: 10px; font-weight: bold;">
       📝 我的网站更新日志
     </div>
-    <a href="https://tbmiao.dpdns.org/posts/siteindex/" style="color: #ff1493; text-decoration: none; font-size: 16px; display: inline-block; padding: 10px 20px; background: rgba(255, 255, 255, 0.7); border-radius: 10px; border: 2px solid #ffc0cb; transition: all 0.3s;">
-      🔗 https://tbmiao.dpdns.org/posts/siteindex/
+    <a href="https://tbmiao.dpdns.org/commits/" style="color: #ff1493; text-decoration: none; font-size: 16px; display: inline-block; padding: 10px 20px; background: rgba(255, 255, 255, 0.7); border-radius: 10px; border: 2px solid #ffc0cb; transition: all 0.3s;">
+      🔗 https://tbmiao.dpdns.org/commits/
     </a>
     <div style="margin-top: 10px; font-size: 13px; color: #db7093;">
       ✨ 点击链接查看哦~ ✨
