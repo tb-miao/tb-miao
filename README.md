@@ -90,7 +90,7 @@
 <div align="center" style="margin: 20px 0;">
   <div style="background: linear-gradient(135deg, #fff0f5, #ffe4e1, #f8e1ff); border-radius: 20px; padding: 20px; border: 3px dashed #ff69b4; box-shadow: 0 8px 25px rgba(255, 105, 180, 0.2); display: inline-block; max-width: 500px;">
     <div style="font-size: 18px; color: #ff69b4; margin-bottom: 10px; font-weight: bold;">
-      📝 我的网站更新日志
+      📝 我的博客更新日志
     </div>
     <a href="https://tbmiao.dpdns.org/commits/" style="color: #ff1493; text-decoration: none; font-size: 16px; display: inline-block; padding: 10px 20px; background: rgba(255, 255, 255, 0.7); border-radius: 10px; border: 2px solid #ffc0cb; transition: all 0.3s;">
       🔗 https://tbmiao.dpdns.org/commits/
