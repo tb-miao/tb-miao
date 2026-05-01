@@ -40,23 +40,7 @@
   <div style="margin-top: 15px; color: #ffb6c1; font-size: 16px;">
     · 🌸 · 🎀 · 🌸 · 🎀 · 🌸 · 🎀 · 🌸 ·
   </div>
-  
-  <!-- 个人信息卡片 -->
-  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <div style="background: linear-gradient(135deg, #fff0f5, #ffe4e1); padding: 12px 20px; border-radius: 15px; border: 2px solid #ffc0cb; box-shadow: 0 4px 12px rgba(255,182,193,0.3);">
-      <span style="color: #ff69b4; font-weight: bold;">🌟 兴趣爱好</span><br>
-      <span style="color: #db7093; font-size: 13px;">看番、画画、编程、打游戏～</span>
-    </div>
-    <div style="background: linear-gradient(135deg, #ffe4e1, #f8e1ff); padding: 12px 20px; border-radius: 15px; border: 2px solid #dda0dd; box-shadow: 0 4px 12px rgba(221,160,221,0.3);">
-      <span style="color: #da70d6; font-weight: bold;">💖 最爱颜色</span><br>
-      <span style="color: #db7093; font-size: 13px;">软fufu的粉色系～</span>
-    </div>
-    <div style="background: linear-gradient(135deg, #f0f8ff, #ffe4e1); padding: 12px 20px; border-radius: 15px; border: 2px solid #b0c4de; box-shadow: 0 4px 12px rgba(176,196,222,0.3);">
-      <span style="color: #6495ed; font-weight: bold;">🎵 喜欢音乐</span><br>
-      <span style="color: #db7093; font-size: 13px;">ACG音乐、J-POP，超治愈的那种！</span>
-    </div>
-  </div>
-  
+
   <!-- 网站链接 -->
   <div style="margin-top: 20px; background: linear-gradient(90deg, #ffeef8, #fff0f5, #ffeef8); padding: 15px 30px; border-radius: 25px; border: 2px dashed #ff69b4; display: inline-block;">
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
