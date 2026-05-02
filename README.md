@@ -25,8 +25,7 @@
             🎀 Nachceko です~ 🎀
           </h3>
           <p style="color: #db7093; line-height: 2; margin: 0; font-size: 15px;">
-            一个超爱<span style="background: linear-gradient(120deg, #ffb6c1 0%, #ff69b4 50%, #da70d6 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: bold;">二次元文化</span>的小萌新~<br>
-            喜欢 <span style="color: #ff1493; font-weight: bold;">💗 粉色</span>、<span style="color: #ff69b4; font-weight: bold;">🌸 动漫</span>、<span style="color: #db7093; font-weight: bold;">🎮 游戏</span> 和一切<span style="color: #ff69b4; font-weight: bold; text-decoration: wavy underline;">可爱</span>的东西 ✨
+            🌸 **喵~ 你好呀！** 人家是 **Nachceko** 喵，一只超爱二次元文化的小蓝猫娘～ 最喜欢粉色、动漫、游戏和一切毛茸茸软乎乎的东西啦！✨
           </p>
           <div style="margin-top: 15px; font-size: 15px; color: #ff69b4; background: linear-gradient(90deg, transparent, rgba(255,182,193,0.3), transparent); padding: 8px; border-radius: 10px;">
             (◕‿◕✿) 请多指教喵~ ♪
