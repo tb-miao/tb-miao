@@ -26,9 +26,6 @@
           <p style="color: #db7093; line-height: 2; margin: 0; font-size: 15px;">
             🌸 你好，杂鱼~
           </p>
-          <div style="margin-top: 15px; font-size: 15px; color: #ff69b4; background: linear-gradient(90deg, transparent, rgba(255,182,193,0.3), transparent); padding: 8px; border-radius: 10px;">
-            (◕‿◕✿) 请多指教喵~ ♪
-          </div>
         </div>
       </td>
     </tr>
