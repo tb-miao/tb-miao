@@ -21,7 +21,7 @@
       <td width="65%" style="padding-left: 25px;">
         <div style="background: rgba(255, 255, 255, 0.85); border-radius: 20px; padding: 20px; border: 3px dashed #ffb6c1; box-shadow: 0 4px 15px rgba(255, 182, 193, 0.2);">
           <h3 style="color: #ff69b4; margin: 0 0 12px 0; text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.6); font-size: 20px;">
-            🎀 Nachceko です~ 🎀
+            🎀 Nachceko 🎀
           </h3>
           <p style="color: #db7093; line-height: 2; margin: 0; font-size: 15px;">
             🌸 你好，杂鱼~
