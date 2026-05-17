@@ -60,6 +60,10 @@
 
 
 
+<picture>
+  <img src="./github-metrics.svg" alt="Metrics">
+</picture>
+
 <!-- GitHub 统计卡片 -->
 <div style="margin: 15px 0;">
    <img src="https://streak-stats.demolab.com/?user=tb-miao&show_icons=true&theme=radical&bg_color=30,fff0f5,ffe4e1&title_color=ff69b4&icon_color=ff1493&text_color=db7093&border_color=ffc0cb" alt="streak stats" />
