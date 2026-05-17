@@ -1,9 +1,6 @@
 <div align="center">
   
-  <!-- ✨ 梦幻樱花飘落装饰 ✨ -->
-  <div style="font-size: 20px; letter-spacing: 8px; animation: float 3s ease-in-out infinite;">
-    🌸 🌸 🌸 🌸 🌸 🌸 🌸
-  </div>
+<img width="51%" src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ciallo～(∠・ω<+)⌒☆&font=Fira+Code&weight=420&color=ACEGGECA&duration=1234&pause=4321" alt="Holá~"/>
   
   <table style="background: linear-gradient(135deg, #ffeef8 0%, #fff0f5 30%, #ffe4e1 60%, #f8e1ff 100%); border-radius: 25px; box-shadow: 0 12px 40px rgba(255, 182, 193, 0.4), inset 0 0 20px rgba(255, 255, 255, 0.5); padding: 25px; border: 3px solid #ffc0cb;">
     <tr>
@@ -80,21 +77,6 @@
   · 🌸 · 🎀 · 📊 · 🎀 · 🌸 ·
 </div>
 
-## 📈 网站日志 | Website Logs
-
-<div align="center" style="margin: 20px 0;">
-  <div style="background: linear-gradient(135deg, #fff0f5, #ffe4e1, #f8e1ff); border-radius: 20px; padding: 20px; border: 3px dashed #ff69b4; box-shadow: 0 8px 25px rgba(255, 105, 180, 0.2); display: inline-block; max-width: 500px;">
-    <div style="font-size: 18px; color: #ff69b4; margin-bottom: 10px; font-weight: bold;">
-      📝 我的博客更新日志
-    </div>
-    <a href="https://tbmiao.dpdns.org/commits/" style="color: #ff1493; text-decoration: none; font-size: 16px; display: inline-block; padding: 10px 20px; background: rgba(255, 255, 255, 0.7); border-radius: 10px; border: 2px solid #ffc0cb; transition: all 0.3s;">
-      🔗 https://tbmiao.dpdns.org/commits/
-    </a>
-    <div style="margin-top: 10px; font-size: 13px; color: #db7093;">
-      ✨ 点击链接查看哦~ ✨
-    </div>
-  </div>
-</div>
 
 <!-- 底部装饰 -->
 <div align="center" style="margin: 15px 0; color: #ffb6c1;">
