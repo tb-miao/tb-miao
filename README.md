@@ -84,3 +84,5 @@
   <img src="./assets/images/sakura.webp" width="25" alt="sakura">
   <img src="./assets/images/sakura.webp" width="25" alt="sakura">
 </div>
+
+![Profile views counter](https://komarev.com/ghpvc/?username=tb-miao&&style=flat-square)  
