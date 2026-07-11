@@ -36,9 +36,10 @@
   <!-- 网站链接 -->
   <div style="margin-top: 20px; background: linear-gradient(90deg, #ffeef8, #fff0f5, #ffeef8); padding: 15px 30px; border-radius: 25px; border: 2px dashed #ff69b4; display: inline-block;">
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
-      🌐 我的博客 | My Blog <br>
-      <a href="https://tbmiao.dpdns.org" style="color: #ff1493; text-decoration: none; font-size: 18px;">https://tbmiao.dpdns.org</a>
-      <span style="color: #ff69b4; font-size: 14px;">（zh-cn）</span>
+      🌐 我的网站 | My Website <br>
+      <a href="https://tbmiao.dpdns.org" style="color: #ff1493; text-decoration: none; font-size: 18px;">旧博客</a>
+      <a href="https://blog.nachceko.qzz.io" style="color: #ff1493; text-decoration: none; font-size: 18px;">新博客（正在使用）</a>
+      <span style="color: #ff69b4; font-size: 14px;">（All Zh-cn）</span>
     </span><br>
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
       🌐 我的个人主页 | My home page <br>
