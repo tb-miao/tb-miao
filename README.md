@@ -44,6 +44,11 @@
       🌐 我的个人主页 | My home page <br>
       <a href="https://nachceko.qzz.io" style="color: #ff1493; text-decoration: none; font-size: 18px;">https://nachceko.qzz.io/</a>
       <span style="color: #ff69b4; font-size: 14px;">（zh-cn）</span>
+    </span><br>
+    <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
+      🌐 社交账号 | Social Media Account <br>
+      <a href="https://github.com/tb-miao" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_tb-miao(Nachceko)</a><br>
+      <a href="https://space.bilibili.com/3546708996786634" style="color: #ff1493; text-decoration: none; font-size: 18px;">bilibili_YeizelNylo（夜瑗)</a>
     </span>
   </div>
   
