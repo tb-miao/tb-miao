@@ -18,10 +18,10 @@
       <td width="65%" style="padding-left: 25px;">
         <div style="background: rgba(255, 255, 255, 0.85); border-radius: 20px; padding: 20px; border: 3px dashed #ffb6c1; box-shadow: 0 4px 15px rgba(255, 182, 193, 0.2);">
           <h3 style="color: #ff69b4; margin: 0 0 12px 0; text-shadow: 2px 2px 4px rgba(255, 182, 193, 0.6); font-size: 20px;">
-            🎀 Nachceko 🎀
+            🎀 YeizelNylo 🎀
           </h3>
           <p style="color: #db7093; line-height: 2; margin: 0; font-size: 15px;">
-            🌸 你好，杂鱼~
+            🌸 你好，雜魚~
           </p>
         </div>
       </td>
@@ -37,7 +37,7 @@
   <div style="margin-top: 20px; background: linear-gradient(90deg, #ffeef8, #fff0f5, #ffeef8); padding: 15px 30px; border-radius: 25px; border: 2px dashed #ff69b4; display: inline-block;">
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
       🌐 我的网站 | My Website <br>
-      <a href="https://tbmiao.dpdns.org" style="color: #ff1493; text-decoration: none; font-size: 18px;">旧博客</a>
+      <a href="https://tbmiao.dpdns.org" style="color: #ff1493; text-decoration: none; font-size: 18px;">旧博客</a><br>
       <a href="https://blog.nachceko.qzz.io" style="color: #ff1493; text-decoration: none; font-size: 18px;">新博客（正在使用）</a>
       <span style="color: #ff69b4; font-size: 14px;">（All Zh-cn）</span>
     </span><br>
@@ -48,7 +48,8 @@
     </span><br>
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
       🌐 社交账号 | Social Media Account <br>
-      <a href="https://github.com/tb-miao" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_tb-miao(Nachceko)</a><br>
+      <a href="https://github.com/tb-miao" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_tb-miao(YeizelNylo)</a><br>
+      <a href="https://github.com/Nachceko" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_Nachceko</a><br>
       <a href="https://space.bilibili.com/3546708996786634" style="color: #ff1493; text-decoration: none; font-size: 18px;">bilibili_YeizelNylo（夜瑗)</a>
     </span>
   </div>
