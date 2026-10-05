@@ -49,7 +49,7 @@
     <span style="color: #ff69b4; font-size: 16px; font-weight: bold;">
       🌐 社交账号 | Social Media Account <br>
       <a href="https://github.com/tb-miao" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_tb-miao(YeizelNylo)</a><br>
-      <a href="https://github.com/Nachceko" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_Nachceko</a><br>
+      <a href="https://github.com/yeizelztxxm" style="color: #ff1493; text-decoration: none; font-size: 18px;">Github_yeizelztxxm</a><br>
       <a href="https://space.bilibili.com/3546708996786634" style="color: #ff1493; text-decoration: none; font-size: 18px;">bilibili_YeizelNylo（夜瑗)</a>
     </span>
   </div>
